@@ -62,8 +62,7 @@ endmodule
 
 **RTL REALIZATION OUTPUT**
 
-![367223593-19b81cb0-9c3a-47c3-9c5d-b53f92f99f04](https://github.com/user-attachments/assets/0c69fba3-100d-4092-ae93-b21bb8bd09bb)
-
+![image](https://github.com/user-attachments/assets/082ccc07-27f0-4b0d-b4a2-74842cb9e353)
 
 
 **Result:**
